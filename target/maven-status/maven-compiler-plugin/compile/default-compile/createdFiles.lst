@@ -1,0 +1,5 @@
+com\fabriciospringcloud\microservicios\app\usuarios\services\UsuarioServiceImpl.class
+com\fabriciospringcloud\microservicios\app\usuarios\models\dao\UsuarioRepository.class
+com\fabriciospringcloud\microservicios\app\usuarios\services\UsuarioService.class
+com\fabriciospringcloud\microservicios\app\usuarios\controllers\UsuarioController.class
+com\fabriciospringcloud\microservicios\app\usuarios\MicroserviciosUsuariosApplication.class
